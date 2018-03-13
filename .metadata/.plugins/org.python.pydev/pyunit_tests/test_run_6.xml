@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="5" failures="0" finished="true" name="Test Run: 6" tests="0" total_time="Finished in: 0.00 secs."/>
+<test location="C:/Omni-ID/Tkinter/Omni/CalibGUI.py" status="error" test="CalibGUI" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\huiho\.p2\pool\plugins\org.python.pydev_6.2.0.201711281614\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "C:\Omni-ID\Tkinter\Omni\CalibGUI.py", line 8
+    Frame._init_(self,master)
+                            ^
+TabError: inconsistent use of tabs and spaces in indentation
+ERROR: Module: CalibGUI could not be imported (file: C:/Omni-ID/Tkinter/Omni/CalibGUI.py).
+]]></stderr>
+</test>
+<test location="C:/Omni-ID/Tkinter/Omni/check btn.py" status="error" test="check btn" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\huiho\.p2\pool\plugins\org.python.pydev_6.2.0.201711281614\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "C:\Omni-ID\Tkinter\Omni\check btn.py", line 7
+    Frame._init_(self,master)
+                            ^
+TabError: inconsistent use of tabs and spaces in indentation
+ERROR: Module: check btn could not be imported (file: C:/Omni-ID/Tkinter/Omni/check btn.py).
+]]></stderr>
+</test>
+<test location="C:/Omni-ID/Tkinter/Omni/radioBtn.py" status="error" test="radioBtn" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\huiho\.p2\pool\plugins\org.python.pydev_6.2.0.201711281614\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "C:\Omni-ID\Tkinter\Omni\radioBtn.py", line 7
+    Frame._init_(self,master)
+                            ^
+TabError: inconsistent use of tabs and spaces in indentation
+ERROR: Module: radioBtn could not be imported (file: C:/Omni-ID/Tkinter/Omni/radioBtn.py).
+]]></stderr>
+</test>
+<test location="C:/Omni-ID/Tkinter/Omni/serial.py" status="error" test="serial" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\huiho\.p2\pool\plugins\org.python.pydev_6.2.0.201711281614\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "C:\Omni-ID\Tkinter\Omni\serial.py", line 9, in <module>
+    ser = serial.Serial(
+AttributeError: module 'serial' has no attribute 'Serial'
+ERROR: Module: serial could not be imported (file: C:/Omni-ID/Tkinter/Omni/serial.py).
+]]></stderr>
+</test>
+<test location="C:/Omni-ID/Tkinter/Omni/takeInput.py" status="error" test="takeInput" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\huiho\.p2\pool\plugins\org.python.pydev_6.2.0.201711281614\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "C:\Omni-ID\Tkinter\Omni\takeInput.py", line 7
+    Frame._init_(self,master)
+                            ^
+TabError: inconsistent use of tabs and spaces in indentation
+ERROR: Module: takeInput could not be imported (file: C:/Omni-ID/Tkinter/Omni/takeInput.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="Omni Omni"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

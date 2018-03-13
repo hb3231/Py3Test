@@ -1,0 +1,42 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Omni-ID\Tkinter\.metadata\.plugins\org.eclipse.core.resources\.projects\Omni\com.python.pydev.analysis\v2_indexcache
+radioBtn|1519494640182999000|C:\Omni-ID\Tkinter\Omni\radioBtn.py
+takeInput|1519493028008989000|C:\Omni-ID\Tkinter\Omni\takeInput.py
+serial|1519514964859479000|C:\Omni-ID\Tkinter\Omni\serial.py
+CalibGUI|1519529645380365000|C:\Omni-ID\Tkinter\Omni\CalibGUI.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+1=radioBtn
+2=takeInput
+4=serial
+6=Application.create_widgets
+7=Application._init_
+8=Application.__init__
+5=Application
+3=CalibGUI
+-- END DICTIONARY
+-- START TREE 1
+5
+app|6|Application!9@Application!17@app!11@app!19@app!27@Application!25@
+inp|1|input!35@
+out|1|out!35@
+roo|3|root!27@root!11@root!19@
+ser|1|ser!35@
+-- END TREE
+-- START TREE 2
+12
+__i|1|__init__!5&26@
+_in|2|_init_!5&18@_init_!5&10@
+but|4|button1!6&27@button_clicks!7&11@button2!6&27@button_clicks!8&27@
+cre|3|create_widgets!5&18@create_widgets!5&10@create_widgets!5&26@
+fav|1|favorite!6&11@
+ins|1|insuruction!6&19@
+pas|1|password!6&19@
+res|1|result!6&11@
+rev|1|reveal!5&18@
+sub|1|submit_button!6&19@
+tex|1|text!6&19@
+upd|2|update_text!5&10@update_count!5&26@
+-- END TREE
